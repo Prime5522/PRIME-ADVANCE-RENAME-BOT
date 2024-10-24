@@ -3,7 +3,7 @@ humanize
 hachoir
 pyrogram==2.0.83
 TgCrypto
-pymongo==4.0.2
+pymongo>=4.0.2
 dnspython
 Flask
 gunicorn==20.1.0
